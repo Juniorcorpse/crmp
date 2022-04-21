@@ -1,0 +1,10 @@
+table {width: 100%;font-size: var(--font-small);font-weight: var(--weight-strong);color: #888888}
+table thead tr{border-bottom: 2px solid #474242 !important; text-align: center;}
+thead th {padding: 10px 12px;
+    border-bottom: 2px solid #fff !important; text-align: center;
+    
+}
+tbody td {padding: 10px 12px;border-bottom: 2px solid #ffffff; text-align: center;}
+tbody tr:hover {background-color: #ffffff;}
+.desc {width: 32%;font-size: .987em; text-align: start;}
+.tb_msg{width: 50%;}
