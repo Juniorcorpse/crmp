@@ -43,7 +43,6 @@ if (!isset($_SESSION['crm'])) {
         </form>
     </div>
 </div>
-
 <div class="dash">
     <aside class="dash_sidebar">
         <article class="dash_sidebar_user">
