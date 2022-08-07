@@ -38,8 +38,9 @@ source/Boot/config.php
 
 storage/*
 crm.php
-/assets/images/*
 /assets/mongo.php
+/assets/images/*
+
 
 
 
